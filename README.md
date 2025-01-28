@@ -1,4 +1,5 @@
 Voice-Assisted AI Keylogger with Speech Recognition
+
 A Python-based program that integrates a voice assistant, keylogger, and AI-powered natural language processing. This project listens for keyboard patterns, responds to voice commands, and generates intelligent responses using the AI21 Labs API.
 
 🚀 Features
@@ -60,5 +61,6 @@ This project is licensed under the MIT License. See the LICENSE file for details
 📧 Contact
 Have questions or suggestions? Reach out at:
 Your Name: [loganathanmurugan055@gamil.com]
+
 GitHub: github.com/loga077
 
